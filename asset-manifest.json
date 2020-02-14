@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chatway/meilo/static/css/main.981f7211.chunk.css",
-    "main.js": "/chatway/meilo/static/js/main.b2201f45.chunk.js",
-    "main.js.map": "/chatway/meilo/static/js/main.b2201f45.chunk.js.map",
-    "runtime-main.js": "/chatway/meilo/static/js/runtime-main.d13c4817.js",
-    "runtime-main.js.map": "/chatway/meilo/static/js/runtime-main.d13c4817.js.map",
-    "static/css/2.ae2f4c93.chunk.css": "/chatway/meilo/static/css/2.ae2f4c93.chunk.css",
-    "static/js/2.aa0d4056.chunk.js": "/chatway/meilo/static/js/2.aa0d4056.chunk.js",
-    "static/js/2.aa0d4056.chunk.js.map": "/chatway/meilo/static/js/2.aa0d4056.chunk.js.map",
-    "index.html": "/chatway/meilo/index.html",
-    "precache-manifest.8d72ff1f5b61d672b5604036444073f5.js": "/chatway/meilo/precache-manifest.8d72ff1f5b61d672b5604036444073f5.js",
-    "service-worker.js": "/chatway/meilo/service-worker.js",
-    "static/css/2.ae2f4c93.chunk.css.map": "/chatway/meilo/static/css/2.ae2f4c93.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/chatway/meilo/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/chatway/meilo/static/media/persik.4e1ec840.png"
+    "main.css": "/meilo/static/css/main.981f7211.chunk.css",
+    "main.js": "/meilo/static/js/main.b2201f45.chunk.js",
+    "main.js.map": "/meilo/static/js/main.b2201f45.chunk.js.map",
+    "runtime-main.js": "/meilo/static/js/runtime-main.8cdfe01a.js",
+    "runtime-main.js.map": "/meilo/static/js/runtime-main.8cdfe01a.js.map",
+    "static/css/2.ae2f4c93.chunk.css": "/meilo/static/css/2.ae2f4c93.chunk.css",
+    "static/js/2.459abe49.chunk.js": "/meilo/static/js/2.459abe49.chunk.js",
+    "static/js/2.459abe49.chunk.js.map": "/meilo/static/js/2.459abe49.chunk.js.map",
+    "index.html": "/meilo/index.html",
+    "precache-manifest.5196abefc6e42a61a78d74813d2a2176.js": "/meilo/precache-manifest.5196abefc6e42a61a78d74813d2a2176.js",
+    "service-worker.js": "/meilo/service-worker.js",
+    "static/css/2.ae2f4c93.chunk.css.map": "/meilo/static/css/2.ae2f4c93.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/meilo/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/meilo/static/media/persik.4e1ec840.png"
   }
 }
