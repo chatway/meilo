@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.css","Footer.css"],"names":[],"mappings":"AAAA,mBACI,4BAA8B,CAC9B,UAAW,CACX,WACJ,CCJA,QACE,YAAa,CACb,sBACF","file":"main.da9c57d1.chunk.css","sourcesContent":[".FixedBottomButton {\n    border-radius: 25px !important;\n    width: 48px;\n    height: 48px;\n}\n",".footer {\n  display: flex;\n  justify-content: center;\n}\n"]}
