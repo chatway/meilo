@@ -1,18 +1,20 @@
-import 'core-js/features/map';
-import 'core-js/features/set';
+import 'core-js/es6/map';
+import 'core-js/es6/set';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import connect from '@vkontakte/vk-connect';
 import App from './App';
-// import registerServiceWorker from './sw';
+import { RouterProvider } from 'react-router5'
+import createRouter from './create-router'
 
-// Init VK  Mini App
-connect.send('VKWebAppInit');
+connect.send('VKWebAppInit', {});
 
-// Если вы хотите, чтобы ваше веб-приложение работало в оффлайне и загружалось быстрее,
-// расскомментируйте строку с registerServiceWorker();
-// Но не забывайте, что на данный момент у технологии есть достаточно подводных камней
-// Подробнее про сервис воркеры можно почитать тут — https://vk.cc/8MHpmT
-// registerServiceWorker();
-
-ReactDOM.render(<App />, document.getElementById('root'));
+let location = Object.assign({}, window.location) // сохраняем данные в переменную, чтобы проверить пользователя на самозванца
+const router = createRouter()
+router.start(() => {
+    ReactDOM.render((
+        <RouterProvider router={router}>
+            <App router={router} location={location}/>
+        </RouterProvider>
+    ), document.getElementById('root'))
+})
