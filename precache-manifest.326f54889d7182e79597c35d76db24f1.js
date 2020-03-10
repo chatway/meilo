@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6213afc8036d1217b6bd774d6c7fb24",
+    "revision": "7a43f021c066d7802ff84f0bd08629f7",
     "url": "/meilo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meilo/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "78eec017bf7e16ce6f1c",
+    "revision": "3d09d1f83d0987ab9d5f",
     "url": "/meilo/static/css/main.da9c57d1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meilo/static/js/2.c0ac06d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78eec017bf7e16ce6f1c",
-    "url": "/meilo/static/js/main.541b8117.chunk.js"
+    "revision": "3d09d1f83d0987ab9d5f",
+    "url": "/meilo/static/js/main.76e32c34.chunk.js"
   },
   {
     "revision": "107c49536a72a5d69b41",

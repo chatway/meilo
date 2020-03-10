@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/meilo/static/css/main.da9c57d1.chunk.css",
-    "main.js": "/meilo/static/js/main.541b8117.chunk.js",
-    "main.js.map": "/meilo/static/js/main.541b8117.chunk.js.map",
+    "main.js": "/meilo/static/js/main.76e32c34.chunk.js",
+    "main.js.map": "/meilo/static/js/main.76e32c34.chunk.js.map",
     "runtime-main.js": "/meilo/static/js/runtime-main.38c7faef.js",
     "runtime-main.js.map": "/meilo/static/js/runtime-main.38c7faef.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/meilo/static/css/2.2cfa1b23.chunk.css",
     "static/js/2.c0ac06d5.chunk.js": "/meilo/static/js/2.c0ac06d5.chunk.js",
     "static/js/2.c0ac06d5.chunk.js.map": "/meilo/static/js/2.c0ac06d5.chunk.js.map",
     "index.html": "/meilo/index.html",
-    "precache-manifest.4dd583cd03783efd828d4942002b31d3.js": "/meilo/precache-manifest.4dd583cd03783efd828d4942002b31d3.js",
+    "precache-manifest.326f54889d7182e79597c35d76db24f1.js": "/meilo/precache-manifest.326f54889d7182e79597c35d76db24f1.js",
     "service-worker.js": "/meilo/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/meilo/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.da9c57d1.chunk.css.map": "/meilo/static/css/main.da9c57d1.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.c0ac06d5.chunk.js",
     "static/css/main.da9c57d1.chunk.css",
-    "static/js/main.541b8117.chunk.js"
+    "static/js/main.76e32c34.chunk.js"
   ]
 }
