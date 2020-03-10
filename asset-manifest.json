@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/meilo/static/css/main.da9c57d1.chunk.css",
-    "main.js": "/meilo/static/js/main.3ed9fef7.chunk.js",
-    "main.js.map": "/meilo/static/js/main.3ed9fef7.chunk.js.map",
+    "main.js": "/meilo/static/js/main.b239aeb0.chunk.js",
+    "main.js.map": "/meilo/static/js/main.b239aeb0.chunk.js.map",
     "runtime-main.js": "/meilo/static/js/runtime-main.38c7faef.js",
     "runtime-main.js.map": "/meilo/static/js/runtime-main.38c7faef.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/meilo/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.f3940d57.chunk.js": "/meilo/static/js/2.f3940d57.chunk.js",
-    "static/js/2.f3940d57.chunk.js.map": "/meilo/static/js/2.f3940d57.chunk.js.map",
+    "static/js/2.c0ac06d5.chunk.js": "/meilo/static/js/2.c0ac06d5.chunk.js",
+    "static/js/2.c0ac06d5.chunk.js.map": "/meilo/static/js/2.c0ac06d5.chunk.js.map",
     "index.html": "/meilo/index.html",
-    "precache-manifest.c2f1323565741f792e59ba0b23b8ef90.js": "/meilo/precache-manifest.c2f1323565741f792e59ba0b23b8ef90.js",
+    "precache-manifest.11038c96368b9cbd68fc9e10b51564d0.js": "/meilo/precache-manifest.11038c96368b9cbd68fc9e10b51564d0.js",
     "service-worker.js": "/meilo/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/meilo/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.da9c57d1.chunk.css.map": "/meilo/static/css/main.da9c57d1.chunk.css.map",
-    "static/js/2.f3940d57.chunk.js.LICENSE.txt": "/meilo/static/js/2.f3940d57.chunk.js.LICENSE.txt"
+    "static/js/2.c0ac06d5.chunk.js.LICENSE.txt": "/meilo/static/js/2.c0ac06d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.38c7faef.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.f3940d57.chunk.js",
+    "static/js/2.c0ac06d5.chunk.js",
     "static/css/main.da9c57d1.chunk.css",
-    "static/js/main.3ed9fef7.chunk.js"
+    "static/js/main.b239aeb0.chunk.js"
   ]
 }
