@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/meilo/precache-manifest.326f54889d7182e79597c35d76db24f1.js"
+  "/meilo/precache-manifest.ead996314154d29615baff73f5f6f121.js"
 );
 
 self.addEventListener('message', (event) => {
